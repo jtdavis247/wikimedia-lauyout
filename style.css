@@ -1,0 +1,32 @@
+span {
+	color: #0645AD;
+
+}
+a {text-decoration: none;}
+
+
+.main {
+	font-size: 150%;
+	margin: auto;
+	height: 908px;
+	width: 1250px;
+	background-color: #fafafa;
+	padding-top:40px;
+}
+
+
+.tiles {
+	float:left;
+ 	width:310px;
+	height:167px;
+	
+}
+img {
+	margin:auto;
+}
+.bold {
+	font-weight:bold;
+}
+.right {
+	padding-left:1000px;
+}
