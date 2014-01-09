@@ -7,9 +7,9 @@ a {text-decoration: none;}
 
 .main {
 	font-size: 150%;
-	margin: auto;
+	margin: 0 auto;
 	height: 908px;
-	width: 1250px;
+	width: 1290px;
 	background-color: #fafafa;
 	padding-top:40px;
 }
@@ -19,6 +19,7 @@ a {text-decoration: none;}
 	float:left;
  	width:310px;
 	height:167px;
+	text-align:center;
 	
 }
 img {
@@ -28,5 +29,9 @@ img {
 	font-weight:bold;
 }
 .right {
-	padding-left:1000px;
+	text-align:right;
+}
+.section{
+padding-top: 5px;
+
 }
